@@ -1,5 +1,5 @@
 # Sobre a aplicação
-Entrada de dados é uma aplicação de coleta de dados que realiza um certificado para cada aluno de cursos ou instituições de educação. Foi uma aplicação construida durante o evento Semana Python na Prática, organizada pela EmpowerData. 
+Certificado Acadêmico é um sistema de coleta de dados que realiza um certificado para alunos de cursos ou instituições de educação no Brasil. Foi uma aplicação construida durante o evento Semana Python na Prática, organizada pela EmpowerData. 
 
 # Layout certificado
 ![Pdf](https://i.ibb.co/NrF2HWb/certificadao-1.png)
